@@ -5,8 +5,7 @@
 }
 
 body {
-  font-family: Georgia, serif;
-background-image: url(../img/background-main.png);
+background-image: url(../img/background.png);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -107,9 +106,7 @@ main h1 {
   
   margin: auto;
   padding: 40px;
-  background-color: rgba(0, 0, 0, 0.2); 
-  /* border: 1px solid #ffffff94; */
-  
+  background-color: rgba(0, 0, 0, 0.2);   
 }
 
 .gallery-section h2 {
@@ -132,8 +129,6 @@ main h1 {
 .gallery-item img {
   width: 100%;
   height: auto;
-  /* border: 1px solid #000000; */
-
   object-fit: cover;
   transition: transform 0.3s ease;
 }
@@ -153,9 +148,7 @@ main h1 {
   
   margin: auto;
   padding: 40px;
-  background-color: rgba(0, 0, 0, 0.2); 
-  /* border: 1px solid #ffffff94; */
-  
+  background-color: rgba(0, 0, 0, 0.2);   
 }
 
 .tattoo-container {
@@ -178,7 +171,6 @@ main h1 {
   margin: auto;
   padding: 40px;
   background-color: rgba(0, 0, 0, 0.2); 
-  /* border: 1px solid #ffffff94; */
 }
 
 .tattoo-grid {
@@ -191,8 +183,6 @@ main h1 {
 
 .tattoo-item img {
   max-width: 250px;
-  /* border: 1px solid #000000; */
-
   object-fit: cover;
 
 }
@@ -222,12 +212,10 @@ main h1 {
 .tattoo-description p {
   font-family: "Yuji Syuku", serif;
   font-size: 20px;
-  /* font-weight: bold; */
 }
 
 
 /* about section */
-
 .about-section {
   display: flex;
   flex-direction: row-reverse;
@@ -237,9 +225,7 @@ main h1 {
   
   margin: auto;
   padding: 40px;
-  background-color: rgba(0, 0, 0, 0.2); 
-  /* border: 1px solid #ffffff94; */
-  
+  background-color: rgba(0, 0, 0, 0.2);   
 }
 
 .about-container {
@@ -254,8 +240,6 @@ main h1 {
 
 .about-item img {
   max-width: 400px;
-  /* border: 1px solid #000000; */
-
   object-fit: cover;
 
 }
@@ -301,9 +285,7 @@ main h1 {
 
 a {
   text-decoration: none;
-
   color:white;
-
 }
 
 a:visited {
@@ -341,9 +323,7 @@ font-size: 40px;
   
   margin: auto;
   padding: 40px;
-  background-color: rgba(0, 0, 0, 0.2); 
-  /* border: 1px solid #ffffff94; */
-  
+  background-color: rgba(0, 0, 0, 0.2);   
 }
 
 .contact-container {
@@ -358,8 +338,6 @@ font-size: 40px;
 
 .contact-item img {
   max-width: 400px;
-  /* border: 1px solid #000000; */
-
   object-fit: cover;
 
 }
@@ -370,7 +348,6 @@ font-size: 40px;
 
   margin:auto;
   text-align: center;
-
 }
 
 .contact-description h2{
